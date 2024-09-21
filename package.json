@@ -1,0 +1,14 @@
+{
+  "name": "familymemo-i18n",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "paraglide-js compile --project ./project.inlang --outdir ./paraglide"
+  },
+  "author": "kazu.dev",
+  "license": "MIT",
+  "devDependencies": {
+    "@inlang/paraglide-js": "1.11.2"
+  }
+}
