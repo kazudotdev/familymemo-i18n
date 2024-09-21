@@ -2,7 +2,7 @@
   "name": "familymemo-i18n",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "./index.ts",
   "scripts": {
     "build": "paraglide-js compile --project ./project.inlang --outdir ./paraglide"
   },
